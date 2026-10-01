@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾⋆˚About Me:˖°👾
 💻 Computer Science student based in Warsaw<br>📚 Learning C++ and Python<br>🚀 Eager to gain practical experience
 
 
