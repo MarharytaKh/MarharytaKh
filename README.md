@@ -1,4 +1,4 @@
-# 👾⋆˚About Me:˖°👾
+# About Me:
 - 3rd-year Computer Science student in Warsaw (GPA 4.28/5)
 - Strong in C++ and Python: built a 2D game in C++ (SFML) from scratch, and a Python benchmarking tool for sorting and SJF scheduling
 - Interested in algorithm performance: measuring running times and comparing them with theoretical complexity
