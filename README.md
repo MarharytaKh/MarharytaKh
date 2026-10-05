@@ -1,9 +1,11 @@
 # 👾⋆˚About Me:˖°👾
-🎓 3rd-year Computer Science student in Warsaw
-⚙️ C++ is my home turf: I built a 2D game on SFML with no engine, just game loop, rendering and collisions from scratch
-⏱️ Obsessed with *how fast* code runs, not just whether it works: I benchmark algorithms and compare the results with theory
-🧠 Currently digging into CPU scheduling (SJF, Round Robin, MLFQ) and performance analysis
-🚀 Looking for real-world projects where I can put it all to work
+- 3rd-year Computer Science student in Warsaw (GPA 4.28/5)
+- Strong in C++ and Python: built a 2D game in C++ (SFML) from scratch, and a Python benchmarking tool for sorting and SJF scheduling
+- Interested in algorithm performance: measuring running times and comparing them with theoretical complexity
+- Experienced in UML design and technical documentation (Enterprise Architect, Doxygen)
+- Web development: HTML/CSS, JavaScript, TypeScript, Node.js, Three.js, Docker Compose
+- Comfortable with Git/GitHub workflows, code reviews and SQL
+- Looking for practical experience in performance-critical systems and software development
 
 
 ## 🌐 Socials:
