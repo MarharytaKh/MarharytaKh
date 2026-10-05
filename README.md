@@ -1,5 +1,9 @@
 # 👾⋆˚About Me:˖°👾
- Computer Science student based in Warsaw<br> Learning Python and C++<br> Eager to gain practical experience
+🎓 3rd-year Computer Science student in Warsaw
+⚙️ C++ is my home turf: I built a 2D game on SFML with no engine, just game loop, rendering and collisions from scratch
+⏱️ Obsessed with *how fast* code runs, not just whether it works: I benchmark algorithms and compare the results with theory
+🧠 Currently digging into CPU scheduling (SJF, Round Robin, MLFQ) and performance analysis
+🚀 Looking for real-world projects where I can put it all to work
 
 
 ## 🌐 Socials:
