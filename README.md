@@ -1,11 +1,10 @@
-# About Me:
-- 3rd-year Computer Science student in Warsaw (GPA 4.28/5)
-- Strong in C++ and Python: built a 2D game in C++ (SFML) from scratch, and a Python benchmarking tool for sorting and SJF scheduling
-- Interested in algorithm performance: measuring running times and comparing them with theoretical complexity
-- Experienced in UML design and technical documentation (Enterprise Architect, Doxygen)
-- Web development: HTML/CSS, JavaScript, TypeScript, Node.js, Three.js, Docker Compose
-- Comfortable with Git/GitHub workflows, code reviews and SQL
-- Looking for practical experience in performance-critical systems and software development
+# About Me
+- 3rd-year CS student in Warsaw (GPA 4.28/5)
+- Python, C++, TypeScript: 2D game in C++ (SFML), Python benchmarking of sorting and SJF scheduling
+- Web: React, Next.js, FastAPI, Node.js, Three.js, Docker
+- Data: SQL, PostgreSQL, PL/SQL, ETL, Power BI, Excel/VBA, Power Automate
+- UML and docs (Enterprise Architect, Doxygen), Git, code review, AI tools (Claude, Copilot)
+- Looking for experience in software development, data / BI and IT
 
 
 ## 🌐 Socials:
