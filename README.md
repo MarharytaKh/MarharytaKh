@@ -4,7 +4,6 @@
 - Web: React, Next.js, FastAPI, Node.js, Three.js, Docker
 - Data: SQL, PostgreSQL, PL/SQL, ETL, Power BI, Excel/VBA, Power Automate
 - UML and docs (Enterprise Architect, Doxygen), Git, code review, AI tools (Claude, Copilot)
-- Looking for experience in software development, data / BI and IT
 
 
 ## 🌐 Socials:
